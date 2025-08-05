@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend with project",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript,react"
+  },
+  "keywords": [
+    "javascript",
+    "react"
+  ],
+  "author": "Rahul Kashyap",
+  "license": "ISC"
+}
