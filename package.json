@@ -4,12 +4,15 @@
   "description": "backend with project",
   "main": "index.js",
   "scripts": {
-    "test": "javascript,react"
+   "dev" :"nodemon src/index.js"
   },
   "keywords": [
     "javascript",
     "react"
   ],
   "author": "Rahul Kashyap",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
